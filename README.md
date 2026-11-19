@@ -1,16 +1,22 @@
-## Hi there 👋
+# Ashmitha Shekar
 
-<!--
-**ashmithashekar7/ashmithashekar7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Intro](assets/intro.svg?v=1)
 
-Here are some ideas to get you started:
+![Right now](assets/right-now.svg?v=1)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Toolkit](assets/toolkit.svg?v=1)
+
+![Trading card](assets/card.svg?v=1)
+
+## Projects
+
+| Project | What it does | Link |
+|---|---|---|
+| PulseTrust_ | ESP32-based sensor-trust and machine-monitoring prototype with anomaly detection | [Live demo](https://main.drqs4jcp51o2q.amplifyapp.com/) |
+| Finomaly | ML and rule-based detection of suspicious GST invoices and filing mismatches | [Live demo](https://finomaly-dashboard.vercel.app/) |
+
+## Connect
+
+https://github.com/ashmithashekar7
+
+https://www.linkedin.com/in/ashmitha-shekar-492213428/
