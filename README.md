@@ -20,3 +20,4 @@
 https://github.com/ashmithashekar7
 
 https://www.linkedin.com/in/ashmitha-shekar-492213428/
+![My coding pet](pet/pet.svg)
