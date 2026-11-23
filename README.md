@@ -20,6 +20,14 @@
 https://github.com/ashmithashekar7
 
 https://www.linkedin.com/in/ashmitha-shekar-492213428/
+
+
+
+
+
+
+
+
 ![My coding pet](pet/pet.svg)
 I'm a computer science student who learns by building projects, joining hackathons, and doing internships.
 
